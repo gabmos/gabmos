@@ -1,34 +1,38 @@
-## Hi, I am Erica Grundy! 
-</br>
+### Hi there 👋, I'm Gabriel Morais!
 
- <div>
-  <a href="https://github.com/gabmos">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
- 
- ## Skills
-<div style="display: inline_block"><br>
-  <img height="40" align="center" alt="Erica-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
-</div>
-  
-</br>
+[![Gabriel Morais GitHub stats](https://github-readme-stats.vercel.app/api?username=gabmos&count_private=true&show_icons=true&theme=default)](https://github.com/gabmos)
 
-## Contact 
+🌍 **Location:** From Belo Horizonte, Brazil to Kansas City, Missouri, USA
 
-</br>
- 
-  ![Snake animation](https://github.com/gabmos/gabmos/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+👨‍💻 **About Me:**
+- 🎓 I'm a current student at UMKC, working towards becoming a full-stack developer.
+- 💼 With 2+ years in front-end development, I'm well-versed in technologies like C#, AngularJS, and React.
+- 🌟 Motivated, detail-oriented, and a pro team worker.
+- 🎵 Lover of sports and music, always interested in how technology intersects with both.
+
+🛠 **Tech Stack:**
+- **Languages & Frameworks:** HTML, CSS, JavaScript, C#, AngularJS, React, Ruby on Rails, PHP
+- **Other Skills:** UI/UX Design, Time Management, Bilingual (English, Spanish, Portuguese, and beginner French & Italian)
+
+📫 **How to reach me:**
+- **Email:** gbgh8@umsystem.edu
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/galbmorais)
+- **Instagram:** [@galbmorais](https://instagram.com/galbmorais)
+
+🚀 **Professional Experience:**
+- **Tokyo Softwares, Belo Horizonte:** Enhanced a complex ERP system using C#, AngularJS, and modern web technologies.
+- **Kornerz, Belo Horizonte:** Spearheaded front-end development for a digital platform and iOS app, handling numerous web solutions and maintenance.
+- **Paiva Piovesan, Belo Horizonte:** Led the development of Next Finance, a fintech platform for financial management through portfolios, enhancing functionality and user experience.
+
+🌱 **I’m currently learning:**
+- Blockchain and cryptocurrency technologies to further expand my development skills.
+
+📕 **Latest Blog Posts:**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+![Profile views](https://count.getloli.com/get/@vincentqyw?theme=asoul)
+
+I'm always open to discussing new projects, opportunities, or collaborations. Feel free to reach out!
