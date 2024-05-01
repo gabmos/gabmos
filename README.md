@@ -33,6 +33,4 @@
 
 ---
 I'm always open to discussing new projects, opportunities, or collaborations. Feel free to reach out!
-<p align="center">
-  <img src="https://github.com/gabmos/gabmos/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+![Snake animation](https://github.com/gabmos/gabmos/blob/output/github-contribution-grid-snake.svg)
