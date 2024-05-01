@@ -33,6 +33,4 @@
 
 ---
 
-![Profile views](https://count.getloli.com/get/@vincentqyw?theme=asoul)
-
 I'm always open to discussing new projects, opportunities, or collaborations. Feel free to reach out!
