@@ -32,9 +32,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-![Profile views](https://count.getloli.com/get/@vincentqyw?theme=asoul)
-
 I'm always open to discussing new projects, opportunities, or collaborations. Feel free to reach out!
 <p align="center">
   <img src="https://github.com/gabmos/gabmos/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
