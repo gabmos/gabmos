@@ -19,14 +19,6 @@
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/galbmorais)
 - **Instagram:** [@galbmorais](https://instagram.com/galbmorais)
 
-🚀 **Professional Experience:**
-- **Tokyo Softwares, Belo Horizonte:** Enhanced a complex ERP system using C#, AngularJS, and modern web technologies.
-- **Kornerz, Belo Horizonte:** Spearheaded front-end development for a digital platform and iOS app, handling numerous web solutions and maintenance.
-- **Paiva Piovesan, Belo Horizonte:** Led the development of Next Finance, a fintech platform for financial management through portfolios, enhancing functionality and user experience.
-
-🌱 **I’m currently learning:**
-- Blockchain and cryptocurrency technologies to further expand my development skills.
-
 📕 **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
