@@ -1,11 +1,15 @@
 ### Hi there 👋, I’m Gabriel Morais!  
 Full-stack developer & QA engineer | Passionate about Web Apps, Automations & Data Analysis
 
-### GitHub Contributions
-![Gabriel's Contributions](https://github-readme-stats.vercel.app/api?username=gabmos&show_icons=true&count_private=true&theme=radical&hide_title=false&include_all_commits=true)
+## 📊 GitHub Stats (Year 2025)
 
-### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=gabmos&theme=radical)](https://github.com/gabmos)
+<!-- Total contributions for this year: using GitHub Actions to update this daily -->
+![Gabriel's GitHub Contributions 2025](https://github.com/gabmos/gh-contributions/blob/main/contributions-2025.svg)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabmos&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabmos&layout=compact&theme=radical)](https://github.com/gabmos)
+
 
 🌍 **Location:** Belo Horizonte, Brazil 🇧🇷 → Kansas City, Missouri, USA 🇺🇸  
 🎓 **Education:** B.Sc. in Computer Science, UMKC (Dec 2025)  
