@@ -1,10 +1,10 @@
 ### Hi there 👋, I’m Gabriel Morais!  
 Full-stack developer & QA engineer | Passionate about Web Apps, Automations & Data Analysis
 
-## 📊 GitHub Stats (Year 2025)
 
+## 📊 GitHub Stats (Year 2025)
 <!-- Total contributions for this year: using GitHub Actions to update this daily -->
-![Gabriel's GitHub Contributions 2025](https://github.com/gabmos/gh-contributions/blob/main/contributions-2025.svg)
+![Gabriel's GitHub Contributions 2025](https://raw.githubusercontent.com/gabmos/gh-contributions/main/contributions-2025.svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabmos&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
