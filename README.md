@@ -3,10 +3,10 @@ Full-stack developer & QA engineer | Passionate about Web Apps, Automations & Da
 
 
 ## 📊 GitHub Stats (Year 2025)
-<!-- Total contributions for this year: using GitHub Actions to update this daily -->
+
 ![Gabriel's GitHub Contributions 2025](https://raw.githubusercontent.com/gabmos/gh-contributions/main/contributions-2025.svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabmos&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gabmos&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabmos&layout=compact&theme=radical)](https://github.com/gabmos)
 
